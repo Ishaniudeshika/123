@@ -1,0 +1,12 @@
+//prg_02.cpp
+//program that adds two numbers
+#include<iostream>
+intmain()
+{
+int number1=25;
+int number2=32;
+int sum;
+sum=number1 + number2;
+cout<<"sum is:"<<sum<<endl;//display value of sum
+
+return0;
